@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --page-gutter: 8%;
+  --page-max-width: 1440px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.page-container {
+  width: calc(100% - (2 * var(--page-gutter)));
+  max-width: var(--page-max-width);
+  margin-inline: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
