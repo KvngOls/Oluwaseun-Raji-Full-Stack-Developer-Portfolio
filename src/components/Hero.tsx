@@ -19,7 +19,7 @@ const Hero = () => {
         </h1>
 
         {/* Professional Title */}
-        <h2 className="mb-6 text-xl font-medium text-slate-800 md:text-2xl lg:text-gray-200">
+        <h2 className="mb-6 mt-6 text-xl font-medium text-slate-800 md:text-2xl lg:text-gray-200">
           Full Stack Developer
         </h2>
 
@@ -32,7 +32,7 @@ const Hero = () => {
         {/* Social Links */}
         <div className="mb-10 flex items-center gap-6 mt-20">
           <a
-            href="https://github.com/"
+            href="https://github.com/KvngOls"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -42,7 +42,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="https://linkedin.com/"
+            href="https://www.linkedin.com/in/oluwaseun-raji-7201ab189/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn"
@@ -52,7 +52,7 @@ const Hero = () => {
           </a>
 
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:oluwaseunraji123@gmail.com"
             aria-label="Email"
             className="text-slate-700 transition-colors hover:text-red-400 lg:text-gray-200"
           >

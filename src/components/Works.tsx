@@ -27,7 +27,7 @@ const projects: Project[] = [
       "MongoDB",
       "Tailwind CSS",
     ],
-    link: "http://localhost:5178/",
+    link: "https://quick-cart-kvng-ols.vercel.app/",
   },
   {
     number: "02",
